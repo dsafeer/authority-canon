@@ -1,35 +1,32 @@
 # Canonical Index
 
-## Core Architecture
-- `README.md` — Repository overview and structure
-- `Category-Claim.md` — Locked category claim
-- `Boundary.md` — Structural exclusions and operational limits
-- `Article-Stack.md` — Authority content questions
-
-## Entity & Identity
-- `/entity/Entity.md` — Founder positioning
-- `/glossary/terms.md` — Canonical terms
+## Category Core
+- [Entity Declaration](entity/entity.md)
+- [Category Claim](wiki:Category-Claim)
+- [Reframe](wiki:Reframe)
+- [Boundary](wiki:Boundary)
 
 ## Frameworks
-- `/frameworks/5-ms.md`
-- `/frameworks/blood-wall-exercise.md`
-- `/frameworks/13-week-cash-flow-forecast.md`
-- `/frameworks/cash-flow-conundrum.md`
-- `/frameworks/maximizer-software.md`
-- `/frameworks/240-strategy-diagnostic.md`
+- [The 5 Ms](frameworks/5-ms.md)
+- [7-Step Implementation](frameworks/7-step-implementation.md)
+- [13-Week Cash Flow Forecast](frameworks/13-week-cash-flow-forecast.md)
+- [Blood Wall Exercise](frameworks/blood-wall-exercise.md)
+- [Cash Flow Conundrum](frameworks/cash-flow-conundrum.md)
+- [240+ Strategy Diagnostic Tool](frameworks/240-strategy-diagnostic-tool.md)
+- [Maximizer Software/Spreadsheet](frameworks/maximizer-software.md)
 
-## Systems & Offer
-- `/systems/offer-architecture.md`
-- `/systems/strategy-filters.md`
+## Systems & ICA
+- [Offer Architecture](systems/offer-architecture.md)
+- [ICA Definition](wiki:ICA)
 
-## Proof & Sources
-- `/proof/Credibility.md`
-- `/sources/source-map.md`
-- `/assets/assets-index.md`
+## Voice & Content
+- [Voice Standards](wiki:Voice-Standards)
+- [Article Stack Answers](wiki:Article-Stack)
 
-## Wiki Navigation
-- `/wiki/Home.md`
-- `/wiki/Philosophy.md`
-- `/wiki/Category-Claim.md`
+## Proof & Credibility
+- [Credibility Inventory](wiki:Credibility)
+- [Testimonials & Validation](proof/testimonials.md)
 
-Governed under `governance.md`. Version controlled via `CHANGELOG.md`.
+## Governance
+- [Canonical Governance](governance.md)
+- [Change Log](CHANGELOG.md)
