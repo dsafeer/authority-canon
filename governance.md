@@ -1,15 +1,14 @@
-# Governance
+# Canonical Governance
 
-This repository follows the InFLOW OS Canonical Standards.
+## Purpose
+This repository serves as the single source of truth for Cash-First Operating Systems. All downstream expression (articles, video, offers, training) must align with the structures documented here.
 
-## Update Rules
-1. All changes must pass the Canonical Integrity Audit before merge.
-2. No framework files may be consolidated. Each framework must maintain its own file.
-3. MANIFESTO.md must be produced by Stephen (Expression Chamber) before installation. Routing note is present.
-4. All INFERENCE and DRAFT (Generated) content must be explicitly labeled until confirmed by the founder.
-5. Version bumps are tracked in `CHANGELOG.md`.
+## Rules
+1. **Evidence Before Architecture:** No framework, claim, or voice standard is installed without direct source validation.
+2. **Label Integrity:** All content is labeled VERBATIM, SUMMARY, INFERENCE, or DRAFT (Generated). Never present inference as fact.
+3. **No Consolidation:** Each framework remains individually structured. Do not merge files.
+4. **Version Control:** All changes require a commit message referencing the specific section updated.
+5. **Routing Compliance:** Downstream agents (Stephen, Stanley, Maya, Isaac) route through this canon. Do not bypass.
 
-## Ownership
-- Category Architect: Darwin (Chamber 3)
-- Category Entity: David Safeer
-- Expression Routing: Stephen, Stanley, Maya, Isaac, Frederick
+## Updates
+Updates are reviewed against the Canonical Integrity Audit. Structural changes require founder confirmation.
