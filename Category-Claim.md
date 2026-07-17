@@ -1,3 +1,3 @@
 # Category Claim
 
-David architects **Cash-First Operating Systems** for small companies. It replaces backward-looking accounting with forward-looking, fact-driven cash forecasts, filters actions based on current business conditions and pre-measured impact, and draws from a diagnostic toolkit of 240+ cash strategies. Proven across 35+ years and validated by founders who finally stop worrying about payroll and start sleeping at night.
+David Safeer architects **Cash-First Operating Systems** for small companies. It replaces backward-looking accounting with forward-looking, fact-driven cash forecasts, filters actions based on current business conditions and pre-measured impact, and draws from a diagnostic toolkit of 240+ cash strategies. Proven across 35+ years and validated by founders who finally stop worrying about payroll and start sleeping at night.
