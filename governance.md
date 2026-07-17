@@ -11,5 +11,5 @@ This repository follows the InFLOW OS Canonical Standards.
 
 ## Ownership
 - Category Architect: Darwin (Chamber 3)
-- Category Entity: David
+- Category Entity: David Safeer
 - Expression Routing: Stephen, Stanley, Maya, Isaac, Frederick
